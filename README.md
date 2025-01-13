@@ -83,7 +83,7 @@ Bright Data offers flexible pricing models, including:
 - **Pay-As-You-Go**: Fixed rate per GB.
 - **Subscription Plans**: Monthly, yearly, and custom options.
 
-### Are Bright Data's US Proxies compliant and safe to use?
+### Are Bright Data's UK Proxies compliant and safe to use?
 Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
 
 ### Is there dedicated support available?
